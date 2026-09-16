@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Slinger",
+        "unitType": "Archery",
+        "movement": 2,
+        "strength": 6,
+        "rangedStrength": 4,
+        "range": 2,
+        "cost": 35,
+        "obsoleteTech": "Machinery",
+        "upgradesTo": "Archer",
+    }
+]
