@@ -1,0 +1,110 @@
+[
+    {
+        ‎"name": "Egypt",
+        ‎"leaderName": "...",
+        ‎"adjective": ["..."],
+        
+        ‎"startIntroPart1": "..",
+        
+        ‎"introduction": "...",
+        ‎"declaringWar": "...",
+        ‎"attacked": "...",
+        ‎"defeated": "...",
+        ‎"denounced": "...",
+        ‎"tradeRequest": "...",
+        ‎"declaringFriendship": "...",
+        ‎"neutralHello": "Greetings.",
+        "neutralLetsHearIt" : "...",
+        "hateHello": "What?",
+        ‎"hateLetsHearIt": "...",
+        
+        ‎"uniqueName": "...",
+        ‎"uniques": [
+            ‎"[+1 Gold] [in all cities]"
+            ‎],
+        ‎"outerColor": [0,0,0],
+        ‎"innerColor": [255,255,255],
+        ‎"cities": ["City One", "City Two"]
+    },
+    {
+        ‎"name": "China",
+        ‎"leaderName": "...",
+        ‎"adjective": ["..."],
+        
+        ‎"startIntroPart1": "..",
+        
+        ‎"introduction": "...",
+        ‎"declaringWar": "...",
+        ‎"attacked": "...",
+        ‎"defeated": "...",
+        ‎"denounced": "...",
+        ‎"tradeRequest": "...",
+        ‎"declaringFriendship": "...",
+        ‎"neutralHello": "Greetings.",
+        "neutralLetsHearIt" : "...",
+        "hateHello": "What?",
+        ‎"hateLetsHearIt": "...",
+        
+        ‎"uniqueName": "...",
+        ‎"uniques": [
+            ‎"[+1 Gold] [in all cities]"
+            ‎],
+        ‎"outerColor": [0,0,0],
+        ‎"innerColor": [255,255,255],
+        ‎"cities": ["City One", "City Two"]
+    },
+    {
+        ‎"name": "India",
+        ‎"leaderName": "...",
+        ‎"adjective": ["..."],
+        
+        ‎"startIntroPart1": "..",
+        
+        ‎"introduction": "...",
+        ‎"declaringWar": "...",
+        ‎"attacked": "...",
+        ‎"defeated": "...",
+        ‎"denounced": "...",
+        ‎"tradeRequest": "...",
+        ‎"declaringFriendship": "...",
+        ‎"neutralHello": "Greetings.",
+        "neutralLetsHearIt" : "...",
+        "hateHello": "What?",
+        ‎"hateLetsHearIt": "...",
+        
+        ‎"uniqueName": "...",
+        ‎"uniques": [
+            ‎"[+1 Gold] [in all cities]"
+            ‎],
+        ‎"outerColor": [0,0,0],
+        ‎"innerColor": [255,255,255],
+        ‎"cities": ["City One", "City Two"]
+    },
+    {
+        ‎"name": "Greece",
+        ‎"leaderName": "...",
+        ‎"adjective": ["..."],
+        
+        ‎"startIntroPart1": "..",
+        
+        ‎"introduction": "...",
+        ‎"declaringWar": "...",
+        ‎"attacked": "...",
+        ‎"defeated": "...",
+        ‎"denounced": "...",
+        ‎"tradeRequest": "...",
+        ‎"declaringFriendship": "...",
+        ‎"neutralHello": "Greetings.",
+        "neutralLetsHearIt" : "...",
+        "hateHello": "What?",
+        ‎"hateLetsHearIt": "...",
+        
+        ‎"uniqueName": "...",
+        ‎"uniques": [
+            ‎"[+1 Gold] [in all cities]"
+            ‎],
+        ‎"outerColor": [0,0,0],
+        ‎"innerColor": [255,255,255],
+        ‎"cities": ["City One", "City Two"]
+    }
+]
