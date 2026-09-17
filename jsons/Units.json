@@ -7,6 +7,7 @@
         "rangedStrength": 4,
         "range": 2,
         "cost": 35,
+        "requiredTech": "Agriculture",
         "obsoleteTech": "Machinery",
         "upgradesTo": "Archer",
     }
