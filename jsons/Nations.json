@@ -8,13 +8,35 @@
 
         "introduction": "...",
         "declareWar": "...",
-        "attacker": "...",
+        "attacked": "...",
         "defeated": "...",
         "denounced": "...",
         "declaringFriendship": "...",
+        "tradeRequest": "...",
+        "neutralHello": "...",
 
         "outerColor": [0,0,0],
         "innerColor": [255,255,255],
-        "cities": ["Men-Nefer", "City-One"]
+        "cities": ["Men-Nefer", "City-One", "City-Two"]
+    },
+    {
+        "name": "China",
+        "leader": "Wu Zetian",
+        "adjective": ["Chinese"],
+
+        "startingIntroPart1": "Only Empress of China..",
+
+        "introduction": "...",
+        "declareWar": "...",
+        "attacked": "...",
+        "defeated": "...",
+        "denounced": "...",
+        "declaringFriendship": "...",
+        "tradeRequest": "...",
+        "neutralHello": "...",
+
+        "outerColor": [0,0,0],
+        "innerColor": [255,255,255],
+        "cities": ["Beijing", "City-One", "City-Two"],
     }
 ]
