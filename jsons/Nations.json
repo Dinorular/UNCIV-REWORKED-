@@ -10,6 +10,8 @@
         "declareWar": "...",
         "attacker": "...",
         "defeated": "...",
+        "denounced": "...",
+        "declaringFriendship": "...",
 
         "outerColor": [0,0,0],
         "innerColor": [255,255,255],
