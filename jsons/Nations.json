@@ -1,7 +1,7 @@
 [
     {
         "name": "Egypt",
-        "leader": "Hatshepsut",
+        "leaderName": "Hatshepsut",
         "adjective": ["Egyptian"],
 
         "startingIntroPart1": "Queen of the Nile..",
@@ -21,7 +21,7 @@
     },
     {
         "name": "China",
-        "leader": "Wu Zetian",
+        "leaderName": "Wu Zetian",
         "adjective": ["Chinese"],
 
         "startingIntroPart1": "Only Empress of China..",
@@ -38,5 +38,31 @@
         "outerColor": [0,0,0],
         "innerColor": [255,255,255],
         "cities": ["Beijing", "City-One", "City-Two"],
+    },
+    {
+        "name": "India",
+        "leaderName": "Chandragupta",
+        "adjective": ["Indian"],
+
+        "startingIntroPart1": "The Great Conqueror of India..",
+
+        "introduction": "...",
+
+        "outerColor": [0,0,0],
+        "innerColor": [255,255,255],
+        "cities": ["Delhi", "City-One", "City-Two"]
+    },
+    {
+        "name": "Greece",
+        "leaderName": "Solon",
+        "adjective": ["Greek"],
+
+        "startingIntroPart1": "Father of Democracy..",
+
+        "introduction": "...",
+
+        "outerColor": [0,0,0],
+        "innerColor": [255,255,255],
+        "cities": ["Athens", "Sparta", "City-One", "City-Two"]
     }
 ]
