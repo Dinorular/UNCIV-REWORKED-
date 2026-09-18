@@ -59,12 +59,26 @@
         "adjective": ["Greek"],
 
         "startingIntroPart1": "Father of Democracy..",
-        "neutralHello": "Greetings, friend.",
 
         "introduction": "‎I am Solon of Athens. Founder of Democracy. I greet you and your people on behalf of Greece.",
+        "neutralHello": "Greetings, friend.",
 
         "outerColor": [0,0,0],
         "innerColor": [255,255,255],
         "cities": ["Athens", "Sparta", "City-One", "City-Two"]
+    },
+    {
+        "name": "Aztec",
+        "leaderName": "Montezuma",
+        "adjective": ["Aztec"],
+
+        "startingIntroPart1": "Scowling Lord of Tenochtitlan..",
+
+        "introduction": "I am Montezuma. The tlatloani. Who stands before me? A warrior or a coward?!",
+        "neutralHello": "Good Day.",
+
+        "outerColor": [0,0,0],
+        "innerColor": [255,255,255],
+        "cities": ["Tenochtitlan", "City-One", "City-Two"],
     }
 ]
