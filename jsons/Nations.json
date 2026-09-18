@@ -6,14 +6,14 @@
 
         "startingIntroPart1": "Queen of the Nile..",
 
-        "introduction": "...",
+        "introduction": "I am Horus in human flesh — Hatshepsut, great pharaoh of the red lands and black lands.",
         "declareWar": "...",
         "attacked": "...",
         "defeated": "...",
         "denounced": "...",
         "declaringFriendship": "...",
         "tradeRequest": "...",
-        "neutralHello": "...",
+        "neutralHello": "Greetings.",
 
         "outerColor": [0,0,0],
         "innerColor": [255,255,255],
@@ -26,14 +26,14 @@
 
         "startingIntroPart1": "Only Empress of China..",
 
-        "introduction": "...",
+        "introduction": "‎I am Wu Zetian, the most feared and loved Empress in China. The only Empress in China.",
         "declareWar": "...",
         "attacked": "...",
         "defeated": "...",
         "denounced": "...",
         "declaringFriendship": "...",
         "tradeRequest": "...",
-        "neutralHello": "...",
+        "neutralHello": "Greetings.",
 
         "outerColor": [0,0,0],
         "innerColor": [255,255,255],
@@ -46,7 +46,8 @@
 
         "startingIntroPart1": "The Great Conqueror of India..",
 
-        "introduction": "...",
+        "introduction": "‎I am the Mauryan Emperor of United India, Chandragupta! No, it hasn't gotten to my head.",
+        "neutralHello": "Good day!",
 
         "outerColor": [0,0,0],
         "innerColor": [255,255,255],
@@ -58,8 +59,9 @@
         "adjective": ["Greek"],
 
         "startingIntroPart1": "Father of Democracy..",
+        "neutralHello": "Greetings, friend.",
 
-        "introduction": "...",
+        "introduction": "‎I am Solon of Athens. Founder of Democracy. I greet you and your people on behalf of Greece.",
 
         "outerColor": [0,0,0],
         "innerColor": [255,255,255],
