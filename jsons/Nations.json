@@ -3,6 +3,7 @@
         "name": "Egypt",
         "leaderName": "Hatshepsut",
         "adjective": ["Egyptian"],
+        "startBias": ["River"],
 
         "startingIntroPart1": "Queen of the Nile..",
 
