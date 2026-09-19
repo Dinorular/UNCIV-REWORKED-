@@ -15,6 +15,11 @@
         "tradeRequest": "...",
         "neutralHello": "Greetings.",
 
+        "uniqueName": "Gifts of the Nile",
+        "uniques": [
+            "[+1 Food,+1 Production] from every [River]"
+        ],
+
         "outerColor": [0,0,0],
         "innerColor": [255,255,255],
         "cities": ["Men-Nefer", "City-One", "City-Two"]
