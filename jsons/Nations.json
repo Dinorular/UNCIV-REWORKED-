@@ -17,8 +17,8 @@
 
         "uniqueName": "Gifts of the Nile",
         "uniques": [
-            "[+2 Production] from every [River]",
-            "[+50]% [Culture] from [World Wonders]"
+            "[+2 Production, +2 Food] from every [River]",
+            "[+10 Culture] from [World Wonders]"
         ],
 
         "outerColor": [0,0,0],
