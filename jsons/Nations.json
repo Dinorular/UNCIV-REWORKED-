@@ -22,8 +22,8 @@
             "[+10 Culture] from every [World Wonder]"
         ],
 
-        "outerColor": [0,0,0],
-        "innerColor": [255,255,255],
+        "outerColor": [231,213,0],
+        "innerColor": [98,10,210],
         "cities": ["Men-Nefer", "City-One", "City-Two"]
     },
     {
@@ -42,8 +42,8 @@
         "tradeRequest": "...",
         "neutralHello": "Greetings.",
 
-        "outerColor": [0,0,0],
-        "innerColor": [255,255,255],
+        "outerColor": [204,0,1],
+        "innerColor": [248,215,12],
         "cities": ["Beijing", "City-One", "City-Two"],
     },
     {
@@ -70,8 +70,8 @@
         "introduction": "‎I am Solon of Athens. Founder of Democracy. I greet you and your people on behalf of Greece.",
         "neutralHello": "Greetings, friend.",
 
-        "outerColor": [0,0,0],
-        "innerColor": [255,255,255],
+        "outerColor": [255,255,255],
+        "innerColor": [65,141,254],
         "cities": ["Athens", "Sparta", "City-One", "City-Two"]
     },
     {
@@ -84,8 +84,8 @@
         "introduction": "I am the scowling lord of Tenochtitlan. The tlatoani. Who comes before me? A warrior or a coward?!",
         "neutralHello": "Good Day.",
 
-        "outerColor": [0,0,0],
-        "innerColor": [255,255,255],
+        "outerColor": [139,32,23],
+        "innerColor": [134,238,214],
         "cities": ["Tenochtitlan", "City-One", "City-Two"],
     }
 ]
