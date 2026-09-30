@@ -28,4 +28,5 @@
         "Panzer",
         "Khan"
     ]
+	"policiesToRemove": ["Tradition Complete", "Liberty Complete", "Honor Complete", "Piety Complete", "Commerce Complete", "Patronage Complete", "Rationalism Complete", "Freedom Complete", "Autocracy Complete", "Order Complete"],
 }
