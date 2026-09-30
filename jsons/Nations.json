@@ -56,8 +56,8 @@
         "introduction": "‎I am Chandragupta, Mauryan emperor of unified India! No, it has not gone to my head.",
         "neutralHello": "Good day!",
 
-        "outerColor": [0,0,0],
-        "innerColor": [255,255,255],
+        "outerColor": [15,115,5],
+        "innerColor": [255,168,81],
         "cities": ["Delhi", "City-One", "City-Two"]
     },
     {
