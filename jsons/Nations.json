@@ -24,7 +24,7 @@
 
         "outerColor": [231,213,0],
         "innerColor": [98,10,210],
-        "cities": ["Men-Nefer", "City-One", "City-Two"]
+        "cities": ["Men-Nefer", "Ra-Kadet", "Iunu", "City-One", "City-Two"]
     },
     {
         "name": "China",
@@ -44,7 +44,7 @@
 
         "outerColor": [204,0,1],
         "innerColor": [248,215,12],
-        "cities": ["Beijing", "City-One", "City-Two"],
+        "cities": ["Beijing", "Shanghai", "Ghangzhou", "City-One", "City-Two"],
     },
     {
         "name": "India",
@@ -58,7 +58,7 @@
 
         "outerColor": [15,115,5],
         "innerColor": [255,168,81],
-        "cities": ["Delhi", "City-One", "City-Two"]
+        "cities": ["Delhi", "Mumbai", "Pataliputra", "City-One", "City-Two"]
     },
     {
         "name": "Greece",
