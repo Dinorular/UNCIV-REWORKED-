@@ -1,5 +1,23 @@
 [
     {
-        "name": "Oligarchy"
+        "name": "Oligarchy",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 10,
+            "Diplomatic": 10,
+            "Domination": 10,
+            "Scientific": 10
+        },
+        "uniques": [
+            "[+2 Gold, +1 Culture, +1 Science] from every [Palace]"
+        ],
+        "policies": [
+            {
+                "name": "Oligarchy Complete",
+                "uniques": [
+                    "[+1 Gold, +2 Culture, +2 Science] [in all cities]"
+                ],
+            }
+        ]
     }
 ]
