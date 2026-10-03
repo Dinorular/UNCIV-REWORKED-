@@ -1,6 +1,6 @@
 [
     {
-        "name": "Oligarchy",
+        "name": "Cooperation",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 10,
@@ -14,7 +14,7 @@
         ],
         "policies": [
             {
-                "name": "Oligarchy Complete",
+                "name": "Cooperation Complete",
                 "uniques": [
                     "[+1 Gold, +2 Culture, +2 Science] [in all cities]"
                 ],
