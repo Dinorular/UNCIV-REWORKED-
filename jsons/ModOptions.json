@@ -28,5 +28,5 @@
         "Panzer",
         "Khan"
     ]
-	"policiesToRemove": ["Aristocracy", "Landed Elite", "Legalism", "Monarchy", "Freedom Complete", "Autocracy Complete", "Order Complete"],
+	"policiesToRemove": ["Freedom Complete", "Autocracy Complete", "Order Complete"],
 }
