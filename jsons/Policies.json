@@ -15,7 +15,7 @@
         "policies": [
             {
                 "name": "Taxes",
-                "uniques" [
+                "uniques": [
                     "[+5 Gold] from every [Market]"
                 ],
                 "row": 1,
