@@ -16,7 +16,7 @@
             {
                 "name": "Taxes",
                 "uniques" [
-                    "[+5 Gold] [in all cities]"
+                    "[+5 Gold] from every [Market]"
                 ],
                 "row": 1,
                 "column": 1,
