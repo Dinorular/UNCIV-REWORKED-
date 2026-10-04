@@ -10,7 +10,7 @@
             "Scientific": 10
         },
         "uniques": [
-            "[+1 Culture, +1 Science] from every [Palace]"
+            "[+2 Culture] from every [Palace]"
         ],
         "policies": [
             {
@@ -24,7 +24,7 @@
             {
                 "name": "Tradition Complete",
                 "uniques": [
-                    "[+1 Gold, +2 Culture, +2 Science] [in all cities]"
+                    "[+2 Food, +2 Production, +2 Gold, +2 Faith, +2 Culture, +2 Science] [in all cities]"
                 ],
             }
         ]
