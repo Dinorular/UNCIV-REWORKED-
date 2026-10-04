@@ -54,10 +54,16 @@
             {
                 "name": "Aristocracy",
                 "uniques": [
-                    "{+5 Gold] from every [Palace]"
+                    "[+5 Gold] from every [Palace]"
                 ],
                 "row": 1,
                 "column": 3,
+            },
+            {
+                "name": "Oligarchy Complete",
+                "uniques": [
+                    "[+100 Gold] from every [Palace]"
+                ]
             }
         ]
     }
