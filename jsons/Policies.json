@@ -14,20 +14,12 @@
         ],
         "policies": [
             {
-                "name": "Honor",
+                "name": "Aggressive Tradition",
                 "uniques": [
                     "[+25]% XP gained from combat <for Military Units>"
                 ],
                 "row": 1,
                 "column": 3,
-            },
-            {
-                "name": "Naval Tradition",
-                "uniques": [
-                    "[+1 Culture, +1 Production] from every [Fishing Boats]"
-                ],
-                "row": 1,
-                "column": 2,
             },
             {
                 "name": "Tradition Complete",
