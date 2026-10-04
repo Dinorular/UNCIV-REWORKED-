@@ -10,13 +10,21 @@
             "Scientific": 10
         },
         "uniques": [
-            "[+2 Gold, +1 Culture, +1 Science] from every [Palace]"
+            "[+1 Culture, +1 Science] from every [Palace]"
         ],
         "policies": [
             {
-                "name": "Oligarchy",
+                "name": "Honor",
                 "uniques": [
-                    "[+5 Gold] from every [Market]"
+                    "[+25]% XP gained from combat <for Military Units>"
+                ],
+                "row": 1,
+                "column": 3,
+            },
+            {
+                "name": "Naval Tradition",
+                "uniques": [
+                    "[+1 Culture, +1 Production] from every [Fishing Boats]"
                 ],
                 "row": 1,
                 "column": 2,
