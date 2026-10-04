@@ -27,5 +27,9 @@
         "B17",
         "Panzer",
         "Khan"
-    ]
+    ],
+	"policiesToRemove": [
+		‎"Aristocracy", "Landed Elite", "Legalism", "Monarchy"
+‎
+	]
 }
