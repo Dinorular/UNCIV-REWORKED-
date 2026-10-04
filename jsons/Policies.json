@@ -14,12 +14,28 @@
         ],
         "policies": [
             {
-                "name": "Aggressive Tradition",
+                "name": "Fighting Tradition",
                 "uniques": [
-                    "[+25]% XP gained from combat <for Military Units>"
+                    "[+25]% XP gained from combat <for [Military] Units>"
                 ],
                 "row": 1,
                 "column": 3,
+            },
+            {
+                "name": "Trading Tradition",
+                "uniques": [
+                    "[+2 Gold] from each Trade Route"
+                ],
+                "row": 1,
+                "column": 2,
+            },
+            {
+                "name": "Building Tradition",
+                "uniques": [
+                    "[+2 Production] [in all cities]"
+                ],
+                "row": 1,
+                "column": 4
             },
             {
                 "name": "Tradition Complete",
