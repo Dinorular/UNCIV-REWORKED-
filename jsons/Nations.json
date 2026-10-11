@@ -18,8 +18,8 @@
 
         "uniqueName": "Gifts of the Nile",
         "uniques": [
-            "[+2 Production, +2 Food] from every [River]",
-            "[+10 Culture] from every [World Wonder]"
+            "[+1 Production, +1 Food] from every [River]",
+            "[+3 Culture] from every [World Wonder]"
         ],
 
         "outerColor": [231,213,0],
@@ -41,6 +41,12 @@
         "declaringFriendship": "...",
         "tradeRequest": "...",
         "neutralHello": "Greetings.",
+
+        "uniqueName": "Dynastic Cycle",
+        "uniques": [
+            "[+50]% [Science] <during a Golden Age",
+            "Free social policy <upon entering a Golden Age>"
+        ],
 
         "outerColor": [204,0,1],
         "innerColor": [248,215,12],
