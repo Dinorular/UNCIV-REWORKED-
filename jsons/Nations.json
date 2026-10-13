@@ -23,7 +23,7 @@
 
         "outerColor": [231,213,0],
         "innerColor": [98,10,210],
-        "cities": [‎"Waset", "Memphis", "Abydos", "Amarna", "Heliopolis", "Hermopolis", "Edfu", "Elephantine", "Aswan", "Dendera",]
+        "cities": [‎"Waset", "Memphis", "Abydos", "Amarna", "Heliopolis", "Hermopolis", "Edfu", "Elephantine", "Aswan", "Dendera"],
     },
     {
         "name": "China",
@@ -49,7 +49,7 @@
 
         "outerColor": [204,0,1],
         "innerColor": [248,215,12],
-        "cities": [‎"Luoyang", "Chang'an", "Chengdu", "Nanjing", "Beijing", "Kaifeng", "Hangzhou", "Suzhou", "Guangzhou", "Wuhan",],
+        "cities": [‎"Luoyang", "Chang'an", "Chengdu", "Nanjing", "Beijing", "Kaifeng", "Hangzhou", "Suzhou", "Guangzhou", "Wuhan"],
     },
     {
         "name": "India",
@@ -63,7 +63,7 @@
 
         "outerColor": [15,115,5],
         "innerColor": [255,168,81],
-        "cities": [‎"Pataliputra", "Taxila", "Ujjain", "Mathura", "Varanasi", "Rajagriha", "Vaishali", "Kaushambi", "Sravasti", "Champa", "Indraprastha",]
+        "cities": [‎"Pataliputra", "Taxila", "Ujjain", "Mathura", "Varanasi", "Rajagriha", "Vaishali", "Kaushambi", "Sravasti", "Champa", "Indraprastha"],
     },
     {
         "name": "Greece",
@@ -77,7 +77,7 @@
 
         "outerColor": [255,255,255],
         "innerColor": [65,141,254],
-        "cities": [‎"Athens", "Sparta", "Corinth", "Thebes", "Argos", "Megara", "Chalcis", "Eretria", "Delphi", "Olympia",]
+        "cities": [‎"Athens", "Sparta", "Corinth", "Thebes", "Argos", "Megara", "Chalcis", "Eretria", "Delphi", "Olympia"],
     },
     {
         "name": "Aztecs",
@@ -91,6 +91,6 @@
 
         "outerColor": [139,32,23],
         "innerColor": [134,238,214],
-        "cities": [‎"Tenochtitlan", "Tlatelolco", "Texcoco", "Tlacopan", "Azcapotzalco", "Coyoacan", "Xochimilco", "Chalco", "Iztapalapa", "Culhuacan",],
+        "cities": [‎"Tenochtitlan", "Tlatelolco", "Texcoco", "Tlacopan", "Azcapotzalco", "Coyoacan", "Xochimilco", "Chalco", "Iztapalapa", "Culhuacan"],
     }
 ]
