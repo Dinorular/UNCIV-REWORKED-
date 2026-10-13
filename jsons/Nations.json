@@ -16,14 +16,14 @@
         "neutralHello": "Greetings.",
 
         "uniqueName": "Gifts of the Nile",
+        "uniqueText": "[+1 Food] and [+1 Production] from [River] Tiles",
         "uniques": [
-            "[+1 Production, +1 Food] from every [River]",
-            "[+3 Culture] from every [World Wonder]"
+            "[+1 Production, +1 Food] from every [River]"
         ],
 
         "outerColor": [231,213,0],
         "innerColor": [98,10,210],
-        "cities": ["Men-Nefer", "Ra-Kadet", "Iunu", "City-One", "City-Two"]
+        "cities": [‎"Waset", "Memphis", "Abydos", "Amarna", "Heliopolis", "Hermopolis", "Edfu", "Elephantine", "Aswan", "Dendera",]
     },
     {
         "name": "China",
@@ -42,13 +42,14 @@
         "neutralHello": "Greetings.",
 
         "uniqueName": "Dynastic Cycle",
+        "uniqueText": "Gain a Free Policy upon entering a Golden Age",
         "uniques": [
             "Free social policy <upon entering a Golden Age>"
         ],
 
         "outerColor": [204,0,1],
         "innerColor": [248,215,12],
-        "cities": ["Beijing", "Shanghai", "Ghangzhou", "City-One", "City-Two"],
+        "cities": [‎"Luoyang", "Chang'an", "Chengdu", "Nanjing", "Beijing", "Kaifeng", "Hangzhou", "Suzhou", "Guangzhou", "Wuhan",],
     },
     {
         "name": "India",
@@ -62,7 +63,7 @@
 
         "outerColor": [15,115,5],
         "innerColor": [255,168,81],
-        "cities": ["Delhi", "Mumbai", "Pataliputra", "City-One", "City-Two"]
+        "cities": [‎"Pataliputra", "Taxila", "Ujjain", "Mathura", "Varanasi", "Rajagriha", "Vaishali", "Kaushambi", "Sravasti", "Champa", "Indraprastha",]
     },
     {
         "name": "Greece",
@@ -71,12 +72,12 @@
 
         "startingIntroPart1": "Solon.",
 
-        "introduction": ‎"I am the Father of Democracy, Solon of Athens. I greet you and your people on behalf of Greece. It is a pleasure to meet you.",
+        "introduction": ‎"I am Solon of Athens. I greet you and your people on behalf of Greece. It is a pleasure to meet you.",
         "neutralHello": "Greetings, friend.",
 
         "outerColor": [255,255,255],
         "innerColor": [65,141,254],
-        "cities": ["Athens", "Sparta", "City-One", "City-Two"]
+        "cities": [‎"Athens", "Sparta", "Corinth", "Thebes", "Argos", "Megara", "Chalcis", "Eretria", "Delphi", "Olympia",]
     },
     {
         "name": "Aztecs",
@@ -90,6 +91,6 @@
 
         "outerColor": [139,32,23],
         "innerColor": [134,238,214],
-        "cities": ["Tenochtitlan", "City-One", "City-Two"],
+        "cities": [‎"Tenochtitlan", "Tlatelolco", "Texcoco", "Tlacopan", "Azcapotzalco", "Coyoacan", "Xochimilco", "Chalco", "Iztapalapa", "Culhuacan",],
     }
 ]
