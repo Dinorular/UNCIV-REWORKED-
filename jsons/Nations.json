@@ -5,10 +5,9 @@
         "adjective": ["Egyptian"],
         "startBias": ["River"],
 
-        "startingIntroPart1": "Queen of the Nile..",
+        "startingIntroPart1": "Hatshepsut.",
 
-        "introduction": "I am Horus in human flesh — Hatshepsut, great pharaoh of the red lands and black lands.",
-        "declareWar": "...",
+        "introduction": "I am Horus in human flesh — Hatshepsut, pharaoh of the red lands and black lands.",
         "attacked": "...",
         "defeated": "...",
         "denounced": "...",
@@ -31,9 +30,9 @@
         "leaderName": "Wu Zetian",
         "adjective": ["Chinese"],
 
-        "startingIntroPart1": "Only Empress of China..",
+        "startingIntroPart1": "Wu Zetian.",
 
-        "introduction": "‎I am Wu Zetian, the most feared and loved Empress in China. The only Empress in China.",
+        "introduction": ‎"Greetings, stranger. I am Wu Zetian, the Great and Only Empress of China. Who must you be?",
         "declareWar": "...",
         "attacked": "...",
         "defeated": "...",
@@ -44,7 +43,6 @@
 
         "uniqueName": "Dynastic Cycle",
         "uniques": [
-            "[+50]% [Science] <during a Golden Age",
             "Free social policy <upon entering a Golden Age>"
         ],
 
@@ -57,10 +55,10 @@
         "leaderName": "Chandragupta",
         "adjective": ["Indian"],
 
-        "startingIntroPart1": "The Great Conqueror of India..",
+        "startingIntroPart1": "Chandragupta.",
 
-        "introduction": "‎I am Chandragupta, Mauryan emperor of unified India! No, it has not gone to my head.",
-        "neutralHello": "Good day!",
+        "introduction": "I am the Mauryan Emperor of United India — I am Chandragupta! No, it has not gotten to my head.",
+        "neutralHello": "Good day.",
 
         "outerColor": [15,115,5],
         "innerColor": [255,168,81],
@@ -71,9 +69,9 @@
         "leaderName": "Solon",
         "adjective": ["Greek"],
 
-        "startingIntroPart1": "Father of Democracy..",
+        "startingIntroPart1": "Solon.",
 
-        "introduction": "‎I am Solon of Athens. Founder of Democracy. I greet you and your people on behalf of Greece.",
+        "introduction": ‎"I am the Father of Democracy, Solon of Athens. I greet you and your people on behalf of Greece. It is a pleasure to meet you.",
         "neutralHello": "Greetings, friend.",
 
         "outerColor": [255,255,255],
@@ -82,12 +80,12 @@
     },
     {
         "name": "Aztecs",
-        "leaderName": "Montezuma",
+        "leaderName": "Itzcoatl",
         "adjective": ["Aztecs"],
 
-        "startingIntroPart1": "Scowling Lord of Tenochtitlan..",
+        "startingIntroPart1": "Itzcoatl.",
 
-        "introduction": "I am the scowling lord of Tenochtitlan. The tlatoani. Who comes before me? A warrior or a coward?!",
+        "introduction": "I am Tlatloani Itzcoatl — Diplomat and General of the Triple Alliance of Mexica. Greetings.",
         "neutralHello": "Good Day.",
 
         "outerColor": [139,32,23],
