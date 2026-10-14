@@ -49,7 +49,7 @@
 
         "outerColor": [204,0,1],
         "innerColor": [248,215,12],
-        "cities": [‎"Luoyang", "Chang'an", "Chengdu", "Nanjing", "Beijing", "Kaifeng", "Hangzhou", "Suzhou", "Guangzhou", "Wuhan"],
+        "cities": ["Luoyang"],
     },
     {
         "name": "India",
@@ -58,12 +58,12 @@
 
         "startingIntroPart1": "Chandragupta.",
 
-        "introduction": "I am the Mauryan Emperor of United India — I am Chandragupta! No, it has not gotten to my head.",
+        "introduction": "The Mauryan Emperor of United India — I am Chandragupta! No, it hasn't gone to my head."
         "neutralHello": "Good day.",
 
         "outerColor": [15,115,5],
         "innerColor": [255,168,81],
-        "cities": [‎"Pataliputra", "Taxila", "Ujjain", "Mathura", "Varanasi", "Rajagriha", "Vaishali", "Kaushambi", "Sravasti", "Champa", "Indraprastha"],
+        "cities": ["Pataliputra"],
     },
     {
         "name": "Greece",
