@@ -15,14 +15,14 @@
         "tradeRequest": "...",
         "neutralHello": "Greetings.",
 
-        "outerColor": [231,213,0],
-        "innerColor": [98,10,210],
         "uniqueName": "Gifts of the Nile",
         "uniqueText": "[+1 Food] and [+1 Production] from [River] Tiles",
         "uniques": [
             "[+1 Production, +1 Food] from every [River]"
         ],
-        "cities": [‎"Men-Nefer"],
+
+        "outerColor": [231,213,0],
+        "innerColor": [98,10,210],
     },
     {
         "name": "China",
