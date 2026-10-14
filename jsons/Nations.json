@@ -42,9 +42,10 @@
         "neutralHello": "Greetings.",
 
         "uniqueName": "Dynastic Cycle",
-        "uniqueText": "Gain a Free Policy upon entering a Golden Age",
         "uniques": [
-            "Free social policy <upon entering a Golden Age>"
+            "[+2 Happiness] from every [Library]",
+            "[+2 Happiness] from every [Amphitheater]",
+            "[+50]% [Production] [in all cities] <during a Golden Age>"
         ],
 
         "outerColor": [204,0,1],
