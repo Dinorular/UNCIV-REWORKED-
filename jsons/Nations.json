@@ -32,7 +32,7 @@
 
         "startingIntroPart1": "Wu Zetian.",
 
-        "introduction": "Greetings.",
+        "introduction": "Greetings. I am Wu Zetian, the Great and Only Empress in all of China. Who must you be, stranger?",
         "declareWar": "...",
         "attacked": "...",
         "defeated": "...",
@@ -58,7 +58,7 @@
 
         "startingIntroPart1": "Chandragupta.",
 
-        "introduction": "The Mauryan Emperor of United India — I am Chandragupta! No, it hasn't gone to my head."
+        "introduction": "The Mauryan Emperor of United India — I am Chandragupta! No, it hasn't gone to my head.",
         "neutralHello": "Good day.",
 
         "outerColor": [15,115,5],
@@ -72,12 +72,12 @@
 
         "startingIntroPart1": "Solon.",
 
-        "introduction": ‎"I am Solon of Athens. I greet you and your people on behalf of Greece. It is a pleasure to meet you.",
+        "introduction": "I am Solon of Athens and I greet you and your people on behalf of Greece. It is a pleasure to meet you.",
         "neutralHello": "Greetings, friend.",
 
         "outerColor": [255,255,255],
         "innerColor": [65,141,254],
-        "cities": [‎"Athens", "Sparta", "Corinth", "Thebes", "Argos", "Megara", "Chalcis", "Eretria", "Delphi", "Olympia"],
+        "cities": ["Athens"],
     },
     {
         "name": "Aztecs",
@@ -91,6 +91,6 @@
 
         "outerColor": [139,32,23],
         "innerColor": [134,238,214],
-        "cities": [‎"Tenochtitlan", "Tlatelolco", "Texcoco", "Tlacopan", "Azcapotzalco", "Coyoacan", "Xochimilco", "Chalco", "Iztapalapa", "Culhuacan"],
+        "cities": ["Tenochtitlan"],
     }
 ]
