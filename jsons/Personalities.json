@@ -1,1 +1,42 @@
-
+[
+    {
+        "name": "Hatshepsut",
+        "preferredVictoryType": "Cultural",
+        "military": 5,
+        "commerce": 7,
+        "diplomacy": 5,
+        "expansion": 3,
+    },
+    {
+        "name": "Wu Zetian",
+        "preferredVictoryType": "Scientific",
+        "military": 3,
+        "commerce": 6,
+        "diplomacy": 8,
+        "expansion": 3,
+    },
+    {
+        "name": "Chandragupta",
+        "preferredVictoryType": "Domination",
+        "military": 8,
+        "commerce": 4,
+        "diplomacy": 4,
+        "expansion": 8,
+    },
+    {
+        "name": "Pericles",
+        "preferredVictoryType": "Diplomatic",
+        "military": 6,
+        "commerce": 4,
+        "diplomacy": 9,
+        "expansion": 3,
+    },
+    {
+        "name": "Itzcoatl",
+        "preferredVictoryType": "Domination",
+        "military": 7,
+        "commerce": 4,
+        "diplomacy": 7,
+        "expansion": 4,
+    }
+]
