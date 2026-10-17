@@ -40,6 +40,9 @@
         "hateHello": "...",
 
         "uniqueName": "Arthashastra",
+        "uniques": [
+            "New [Military] units start with [10] XP"
+        ],
         "outerColor": [15,115,5],
         "innerColor": [255,168,81],
         "cities": ["Delhi", "Pataliputra", "Varanasi", "Taxila"],
