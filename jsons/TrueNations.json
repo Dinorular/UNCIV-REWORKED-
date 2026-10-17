@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Egypt",
+        "leaderName": "Hatshepsut",
+        "adjective": ["Egyptian"],
+
+        "uniqueName": "Gifts of the Nile",
+        "outerColor": [0,0,0],
+        "innerColor": [255,255,255],
+        "cities": ["Waset"],
+    },
+    {
+        "name": "China",
+        "leaderName": "Wu Zetian",
+        "adjective": ["Chinese"],
+
+        "uniqueName": "Dynastic Cycle",
+        "outerColor": [0,0,0],
+        "innerColor": [255,255,255],
+        "cities": ["Beijing"],
+    },
+    {
+        "name": "India",
+        "leaderName": "Chandragupta",
+        "adjective": ["Indian"],
+
+        "uniqueName": "Arthashastra",
+        "outerColor": [0,0,0],
+        "innerColor": [255,255,255],
+        "cities": ["Delhi"],
+    },
+    {
+        "name": "Greece",
+        "leaderName": "Pericles",
+        "adjective"; ["Greek"],
+
+        "uniqueName": "First Democracy",
+        "outerColor": [0,0,0],
+        "innerColor": [255,255,255],
+        "cities": ["Athens"],
+    },
+    {
+        "name": "Aztecs",
+        "leaderName": "Itzcoatl",
+        "adjective": ["Aztec"],
+
+        "uniqueName": "Triple Aztec Alliance",
+        "outerColor": [0,0,0],
+        "innerColor": [255,255,255],
+        "cities": ["Tenochtitlan"],
+    }
+]
