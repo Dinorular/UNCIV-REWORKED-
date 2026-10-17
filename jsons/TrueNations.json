@@ -5,8 +5,8 @@
         "adjective": ["Egyptian"],
 
         "uniqueName": "Gifts of the Nile",
-        "outerColor": [0,0,0],
-        "innerColor": [255,255,255],
+        "outerColor": [231,213,0],
+        "innerColor": [98,10,210],
         "cities": ["Waset"],
     },
     {
@@ -15,8 +15,8 @@
         "adjective": ["Chinese"],
 
         "uniqueName": "Dynastic Cycle",
-        "outerColor": [0,0,0],
-        "innerColor": [255,255,255],
+        "outerColor": [204,0,1],
+        "innerColor": [248,215,12],
         "cities": ["Beijing"],
     },
     {
@@ -25,8 +25,8 @@
         "adjective": ["Indian"],
 
         "uniqueName": "Arthashastra",
-        "outerColor": [0,0,0],
-        "innerColor": [255,255,255],
+        "outerColor": [15,115,5],
+        "innerColor": [81,168,255],
         "cities": ["Delhi"],
     },
     {
@@ -35,8 +35,8 @@
         "adjective"; ["Greek"],
 
         "uniqueName": "First Democracy",
-        "outerColor": [0,0,0],
-        "innerColor": [255,255,255],
+        "outerColor": [255,255,255],
+        "innerColor": [65,141,254],
         "cities": ["Athens"],
     },
     {
@@ -45,8 +45,8 @@
         "adjective": ["Aztec"],
 
         "uniqueName": "Triple Aztec Alliance",
-        "outerColor": [0,0,0],
-        "innerColor": [255,255,255],
+        "outerColor": [139,32,23],
+        "innerColor": [134,238,214],
         "cities": ["Tenochtitlan"],
     }
 ]
