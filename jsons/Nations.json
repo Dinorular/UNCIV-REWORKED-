@@ -75,6 +75,6 @@
         "uniqueName": "Triple Aztec Alliance",
         "outerColor": [139,32,23],
         "innerColor": [134,238,214],
-        "cities": ["Tenochtitlan", "Tlatelolco", "Texcoco", "Tlacopan"],
+        "cities": ["Tenochtitlan", "Texcoco", "Tlacopan", "Azcapotzalco"],
     }
 ]
