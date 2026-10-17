@@ -32,7 +32,7 @@
     {
         "name": "Greece",
         "leaderName": "Pericles",
-        "adjective"; ["Greek"],
+        "adjective": ["Greek"],
 
         "uniqueName": "First Democracy",
         "outerColor": [255,255,255],
