@@ -41,7 +41,7 @@
 
         "uniqueName": "Arthashastra",
         "uniques": [
-            "[+10]% XP gained from combat <for [Military] units>"
+            "[+20]% XP gained from combat <for [Military] units>"
         ],
         "outerColor": [15,115,5],
         "innerColor": [255,168,81],
