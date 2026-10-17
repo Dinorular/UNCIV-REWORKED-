@@ -7,7 +7,7 @@
         "uniqueName": "Gifts of the Nile",
         "outerColor": [231,213,0],
         "innerColor": [98,10,210],
-        "cities": ["Waset"],
+        "cities": ["Waset", "Memphis", "Abydos", "Heliopolis"],
     },
     {
         "name": "China",
@@ -17,7 +17,7 @@
         "uniqueName": "Dynastic Cycle",
         "outerColor": [204,0,1],
         "innerColor": [248,215,12],
-        "cities": ["Beijing"],
+        "cities": ["Beijing", "Luoyang", "Hangzhou", "Nanjing"],
     },
     {
         "name": "India",
@@ -26,8 +26,8 @@
 
         "uniqueName": "Arthashastra",
         "outerColor": [15,115,5],
-        "innerColor": [81,168,255],
-        "cities": ["Delhi"],
+        "innerColor": [255,168,81],
+        "cities": ["Delhi", "Pataliputra", "Varanasi", "Taxila"],
     },
     {
         "name": "Greece",
@@ -37,7 +37,7 @@
         "uniqueName": "First Democracy",
         "outerColor": [255,255,255],
         "innerColor": [65,141,254],
-        "cities": ["Athens"],
+        "cities": ["Athens", "Sparta", "Corinth", "Delphi"],
     },
     {
         "name": "Aztecs",
@@ -47,6 +47,6 @@
         "uniqueName": "Triple Aztec Alliance",
         "outerColor": [139,32,23],
         "innerColor": [134,238,214],
-        "cities": ["Tenochtitlan"],
+        "cities": ["Tenochtitlan", "Tlatelolco", "Texcoco", "Tlacopan"],
     }
 ]
