@@ -4,6 +4,11 @@
         "leaderName": "Hatshepsut",
         "adjective": ["Egyptian"],
 
+        "introduction": "Greetings.",
+        "tradeRequest": "What do you think?",
+        "neutralHello": "Greetings.",
+        "hateHello": "...",
+
         "uniqueName": "Gifts of the Nile",
         "outerColor": [231,213,0],
         "innerColor": [98,10,210],
@@ -13,6 +18,11 @@
         "name": "China",
         "leaderName": "Wu Zetian",
         "adjective": ["Chinese"],
+
+        "introduction": "Greetings.",
+        "tradeRequest": "What do you think?",
+        "neutralHello": "Greetings.",
+        "hateHello": "...",
 
         "uniqueName": "Dynastic Cycle",
         "outerColor": [204,0,1],
@@ -24,6 +34,11 @@
         "leaderName": "Chandragupta",
         "adjective": ["Indian"],
 
+        "introduction": "Greetings.",
+        "tradeRequest": "What do you think?",
+        "neutralHello": "Greetings.",
+        "hateHello": "...",
+
         "uniqueName": "Arthashastra",
         "outerColor": [15,115,5],
         "innerColor": [255,168,81],
@@ -34,6 +49,11 @@
         "leaderName": "Pericles",
         "adjective": ["Greek"],
 
+        "introduction": "Greetings.",
+        "tradeRequest": "What do you think?",
+        "neutralHello": "Greetings.",
+        "hateHello": "...",
+
         "uniqueName": "First Democracy",
         "outerColor": [255,255,255],
         "innerColor": [65,141,254],
@@ -43,6 +63,11 @@
         "name": "Aztecs",
         "leaderName": "Itzcoatl",
         "adjective": ["Aztec"],
+
+        "introduction": "Greetings.",
+        "tradeRequest": "What do you think?",
+        "neutralHello": "Greetings.",
+        "hateHello": "...",
 
         "uniqueName": "Triple Aztec Alliance",
         "outerColor": [139,32,23],
