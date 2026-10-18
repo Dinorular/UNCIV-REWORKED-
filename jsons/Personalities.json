@@ -1,7 +1,6 @@
 [
     {
         "name": "Hatshepsut",
-        "preferredVictoryType": "Cultural",
         "food": 7,
         "production": 5,
         "gold": 7,
@@ -17,7 +16,6 @@
     },
     {
         "name": "Wu Zetian",
-        "preferredVictoryType": "Scientific",
         "food": 5,
         "production": 5,
         "gold": 6,
@@ -33,7 +31,6 @@
     },
     {
         "name": "Chandragupta",
-        "preferredVictoryType": "Domination",
         "food": 7,
         "production": 5,
         "gold": 5,
@@ -50,7 +47,6 @@
     },
     {
         "name": "Pericles",
-        "preferredVictoryType": "Diplomatic",
         "food": 4,
         "production": 8
         "gold": 4,
@@ -66,7 +62,6 @@
     },
     {
         "name": "Itzcoatl",
-        "preferredVictoryType": "Domination",
         "food": 5,
         "production": 5,
         "gold": 5,
