@@ -3,6 +3,7 @@
         "name": "Egypt",
         "leaderName": "Hatshepsut",
         "adjective": ["Egyptian"],
+        "preferredVictoryType": "Cultural",
         "personality": "Hatshepsut",
 
         "introduction": "Greetings.",
@@ -19,6 +20,7 @@
         "name": "China",
         "leaderName": "Wu Zetian",
         "adjective": ["Chinese"],
+        "preferredVictoryType": "Scientific",
         "personality": "Wu Zetian",
 
         "introduction": "Greetings.",
@@ -35,6 +37,7 @@
         "name": "India",
         "leaderName": "Chandragupta",
         "adjective": ["Indian"],
+        "preferredVictoryType": "Domination",
         "personality": "Chandragupta",
 
         "introduction": "Greetings.",
@@ -54,6 +57,7 @@
         "name": "Greece",
         "leaderName": "Pericles",
         "adjective": ["Greek"],
+        "preferredVictoryType": "Diplomatic",
         "personality": "Pericles",
 
         "introduction": "Greetings.",
@@ -61,7 +65,7 @@
         "neutralHello": "Greetings.",
         "hateHello": "...",
 
-        "uniqueName": "First Democracy",
+        "uniqueName": "Democratic Republic",
         "outerColor": [255,255,255],
         "innerColor": [65,141,254],
         "cities": ["Athens", "Sparta", "Corinth", "Delphi"],
@@ -70,6 +74,7 @@
         "name": "Aztecs",
         "leaderName": "Itzcoatl",
         "adjective": ["Aztec"],
+        "preferredVictoryType": "Domination",
         "personality": "Itzcoatl",
 
         "introduction": "Greetings.",
